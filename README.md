@@ -13,8 +13,5 @@
   <a href="mailto:meduardackr@gmail.com">
     <img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
   </a>
-  <a href="https://instagram.com/cassstrro">
-    <img align="left" alt="Maria's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />
-  </a>
-</p>
+  </p>
 
