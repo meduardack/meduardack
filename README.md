@@ -1,15 +1,18 @@
-# Olá! Eu sou a Maria Eduarda Carvalho de Castro 👋
-
-**Data Analyst & Analytics Engineer** | Pós-graduanda em Engenharia e Análise de Dados na **CESAR School** | Formada pela **Laboratoria Brasil**
-
-Transformo grandes volumes de dados brutos em **camadas analíticas confiáveis, testes de hipóteses e modelos de suporte à decisão**. Combino rigor metodológico, consultas avançadas em **SQL (BigQuery, Databricks, PostgreSQL)**, análise estatística e automação em **Python** e storytelling executivo em **Power BI e Looker Studio**.
-
-📍 Recife, PE — Brasil | 🌐 Inglês Avançado (C1 — EF SET 72/100)  
-📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/meduardack) • [meduardack@gmail.com](mailto:meduardack@gmail.com)
+```sql
+Data Analyst & Analytics Engineer | Pós-graduanda em Engenharia e Análise de Dados na CESAR School | Formada pela Laboratoria Brasil
+```
+```sql
+= Interesses:                                            = Info:
+-> grandes volumes de dados brutos                       -> Recife, PE — Brasil
+-> testes de hipóteses                                   -> Inglês Avançado (C1 — EF SET 72/100)
+-> modelos de suporte à decisão                          -> linkedIn.com/in/meduardack
+-> análise estatística                                   -> meduardack@gmail.com
+-> storytelling.
+```
 
 ---
 
-## 🚀 Projetos em Destaque (Portfólio de Dados & Engenharia)
+## Projetos em Destaque (Portfólio de Dados)
 
 | Projeto | Problema de Negócio | Stack Técnica | Principais Resultados & Métricas | Links |
 | :--- | :--- | :--- | :--- | :--- |
