@@ -1,6 +1,6 @@
 # Olá! Eu sou a Maria Eduarda Carvalho de Castro 👋
 
-**Data Analyst & Analytics Engineer em formação** | Pós-graduanda em Engenharia e Análise de Dados na **CESAR School** | Formada pela **Laboratoria Brasil**
+**Data Analyst & Analytics Engineer** | Pós-graduanda em Engenharia e Análise de Dados na **CESAR School** | Formada pela **Laboratoria Brasil**
 
 Transformo grandes volumes de dados brutos em **camadas analíticas confiáveis, testes de hipóteses e modelos de suporte à decisão**. Combino rigor metodológico, consultas avançadas em **SQL (BigQuery, Databricks, PostgreSQL)**, análise estatística e automação em **Python** e storytelling executivo em **Power BI e Looker Studio**.
 
