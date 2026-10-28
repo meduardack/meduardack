@@ -1,4 +1,4 @@
-> 🌐 **Language / Idioma:** [English](README_en.md) • **Português**
+> **Language / Idioma:** [English](README_en.md) • **Português**
 
 ```sql
 Analista de Dados & Analytics Engineer | Engenharia e Análise de Dados na CESAR School | Laboratoria Brasil
