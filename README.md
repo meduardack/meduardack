@@ -2,12 +2,12 @@
 Data Analyst & Analytics Engineer | Pós-graduanda em Engenharia e Análise de Dados na CESAR School | Formada pela Laboratoria Brasil
 ```
 ```sql
-= Interesses:                                            = Info:
--> grandes volumes de dados brutos                       -> Recife, PE — Brasil
--> testes de hipóteses                                   -> Inglês Avançado (C1 — EF SET 72/100)
--> modelos de suporte à decisão                          -> linkedIn.com/in/meduardack
--> análise estatística                                   -> meduardack@gmail.com
--> storytelling.
+= Stacks:                                                = Info:
+-> SQL (BigQuery, PostgreSQL, MySQL)                     -> Recife, PE — Brasil
+-> Python (Pandas, Scikit-Learn, Statsmodels)            -> English (C1 — EF SET 72/100)
+-> Power BI, Looker Studio, Metabase                     -> linkedin.com/in/meduardack
+-> Data Modeling, EDA & Statistics                       -> meduardack@gmail.com
+-> AI / LLM Evaluation & Prompt Engineering              -> github.com/meduardack
 ```
 
 ---
@@ -32,7 +32,7 @@ SELECT plataforma, r_quadrado, hipoteses_validadas FROM portfolio.streaming;
 -- Stack:  Google BigQuery (SQL) | Python (Statsmodels, SciPy, Scikit-Learn) | Power BI
 -- Output: 948 faixas e 644 artistas | 5 hipóteses testadas (OLS/VIF) | R² = 61% playlists -> streams (r = 0.78)
 ```
-🔗 [Repositório](https://github.com/meduardack/Hipoteses_Musicais) • [Google Colab](https://colab.research.google.com/drive/1quOxk92ReWGKQInZWJTejArk3STQUP76?usp=sharing) • [Apresentação Executiva](https://docs.google.com/presentation/d/1YaAlAVo6Mgmx3_J5_hPPOMxjTDW1e4HEAwfG4YMLL7s/edit?usp=sharing)
+🔗 [Repositório](https://github.com/meduardack/Hipoteses_Musicais) • [Relatório no Notion](https://app.notion.com/p/FICHA-T-CNICA_-PROJETO-2-HIP-TESES-200b5d322028808ba872c03248cce5ac?source=copy_link) • [Google Colab](https://colab.research.google.com/drive/1quOxk92ReWGKQInZWJTejArk3STQUP76?usp=sharing) • [Apresentação Executiva](https://docs.google.com/presentation/d/1YaAlAVo6Mgmx3_J5_hPPOMxjTDW1e4HEAwfG4YMLL7s/edit?usp=sharing)
 
 ---
 
