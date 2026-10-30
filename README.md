@@ -9,8 +9,19 @@ Analista de Dados & Analytics Engineer | Engenharia e Análise de Dados na CESAR
 -> Python (Pandas, Scikit-Learn, Statsmodels)            -> Inglês (C1 — EF SET 72/100)
 -> Power BI, Looker Studio, Metabase                     -> linkedin.com/in/meduardack
 -> Modelagem de Dados, EDA & Estatística                 -> meduardack@gmail.com
--> Avaliação de IA / LLMs & Engenharia de Prompt         -> github.com/meduardack
+                                                         -> github.com/meduardack
 ```
+
+---
+
+### 🏫 [`meduardack/EduConectada`](https://github.com/meduardack/EduConectada)
+```sql
+SELECT total_schools, simet_telemetry, conditional_probability FROM portfolio.educonectada;
+-- Objetivo: Avaliar a conectividade real de internet vs. demanda por aluno nas escolas públicas do Brasil
+-- Stack:    Python (Pandas, Seaborn, Scikit-Learn) | Estatística Inferencial | Google Colab
+-- Entrega:  137.914 escolas (~77k SIMET) | Paradoxo Urbano-Rural (30,2% rural vs 21,6% urbano atingem meta) | Simulação TLC
+```
+🔗 [GitHub](https://github.com/meduardack/EduConectada) • [Notebook](https://github.com/meduardack/EduConectada/blob/main/notebooks/educonectada.ipynb)
 
 ---
 
@@ -35,17 +46,6 @@ SELECT platform, r_squared, validated_hypotheses FROM portfolio.streaming;
 -- Entrega:  948 faixas & 644 artistas | 5 hipóteses testadas (OLS/VIF) | R² = 61% playlists -> streams (r = 0,78)
 ```
 🔗 [GitHub](https://github.com/meduardack/Hipoteses_Musicais) • [Notion](https://app.notion.com/p/FICHA-T-CNICA_-PROJETO-2-HIP-TESES-200b5d322028808ba872c03248cce5ac?source=copy_link) • [Google Colab](https://colab.research.google.com/drive/1quOxk92ReWGKQInZWJTejArk3STQUP76?usp=sharing) • [Google Slides](https://docs.google.com/presentation/d/1YaAlAVo6Mgmx3_J5_hPPOMxjTDW1e4HEAwfG4YMLL7s/edit?usp=sharing)
-
----
-
-### 🏫 [`meduardack/EduConectada`](https://github.com/meduardack/EduConectada)
-```sql
-SELECT total_schools, simet_telemetry, conditional_probability FROM portfolio.educonectada;
--- Objetivo: Avaliar a conectividade real de internet vs. demanda por aluno nas escolas públicas do Brasil
--- Stack:    Python (Pandas, Seaborn, Scikit-Learn) | Estatística Inferencial | Google Colab
--- Entrega:  137.914 escolas (~77k SIMET) | Paradoxo Urbano-Rural (30,2% rural vs 21,6% urbano atingem meta) | Simulação TLC
-```
-🔗 [GitHub](https://github.com/meduardack/EduConectada) • [Notebook](https://github.com/meduardack/EduConectada/blob/main/notebooks/educonectada.ipynb)
 
 ---
 
