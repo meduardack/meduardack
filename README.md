@@ -1,4 +1,6 @@
-> **Language / Idioma:** [English](README_en.md) | **Português**. <img width="108" height="124" alt="226127913-88de86d3-8437-45b9-a3b6-e746b47f655a" src="https://github.com/user-attachments/assets/f0fe6c0b-8937-4776-9792-d8bfcc53cd3b" />
+<img width="108" height="124" alt="226127913-88de86d3-8437-45b9-a3b6-e746b47f655a" src="https://github.com/user-attachments/assets/f0fe6c0b-8937-4776-9792-d8bfcc53cd3b" />
+
+> **Language / Idioma:** [English](README_en.md) | **Português**
 
 
 ```sql
